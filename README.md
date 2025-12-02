@@ -28,7 +28,5 @@ When I'm not studying or coding, you can find me:
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatsVink&show_icons=true&theme=minimal&hide_border=true" alt="Mats' GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatsVink&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
-</p>
+![Mats' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatsVink&show_icons=true&theme=minimal&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatsVink&layout=compact&theme=minimal&hide_border=true)
