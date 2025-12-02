@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Mats Vink 👋
 
-<!--
-**MatsVink/MatsVink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **Computer Science student** at the **University of Amsterdam (UvA)**.
+Passionate about Web Development and leveraging AI to build efficient code. I'm currently exploring the tech landscape and honing my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Skills
+**Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+**Currently Learning:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+
+---
+
+### 🎹 Beyond the Code
+When I'm not studying or coding, you can find me:
+* 🎵 **Producing music** in FL Studio or learning to play the **Piano**.
+* 🎾 Playing **Padel** or Football.
+* 🏋️‍♀️ Hitting the **Gym**.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatsVink&show_icons=true&theme=minimal&hide_border=true" alt="Mats' GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatsVink&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
+</p>
