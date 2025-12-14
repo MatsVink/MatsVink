@@ -29,7 +29,7 @@ When I'm not studying or coding, you can find me:
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=matsvink&show_icons=true&theme=minimal&hide_border=true&cache_seconds=1800" />
+https://github-readme-stats.vercel.app/api?username=matsvink
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsvink&layout=compact&theme=minimal&hide_border=true&cache_seconds=1800" />
 
