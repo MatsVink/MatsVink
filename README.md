@@ -19,11 +19,11 @@ Passionate about Web Development and leveraging AI to build efficient code. I'm 
 
 ---
 
-### 🎹 Beyond the Code
+### Beyond the Code
 When I'm not studying or coding, you can find me:
-* 🎵 **Producing music** in FL Studio or learning to play the **Piano**.
-* 🎾 Playing **Padel** or Football.
-* 🏋️‍♀️ Hitting the **Gym**.
+* **Producing music** in FL Studio or learning to play the **Piano**.
+* Playing **Padel** or Football.
+* 🏋Hitting the **Gym**.
 
 ---
 
